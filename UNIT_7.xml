@@ -1,0 +1,89 @@
+<books>
+  <book>
+    <id>1</id>
+    <title>1984</title>
+    <author>George Orwell</author>
+    <genre>Dystopian</genre>
+    <price>19.99</price>
+  </book>
+
+  <book>
+    <id>2</id>
+    <title>To Kill a Mockingbird</title>
+    <author>Harper Lee</author>
+    <genre>Fiction</genre>
+    <price>14.99</price>
+  </book>
+
+  <book>
+    <id>3</id>
+    <title>The Greatest Salesman in the World</title>
+    <author>OG Mandino</author>
+    <genre>Personal Development</genre>
+    <price>12.99</price>
+  </book>
+
+  <book>
+    <id>4</id>
+    <title>Project Hail Mary</title>
+    <author>Andy Weir</author>
+    <genre>Science Fiction</genre>
+    <price>9.99</price>
+  </book>
+
+  <book>
+    <id>5</id>
+    <title>Dune</title>
+    <author>Frank Herbert</author>
+    <genre>Fantasy</genre>
+    <price>9.99</price>
+  </book>
+
+  <book>
+    <id>6</id>
+    <title>The Thursday Murder Club</title>
+    <author>Richard Osman</author>
+    <genre>Crime</genre>
+    <price>7.99</price>
+  </book>
+
+  <book>
+    <id>7</id>
+    <title>A Court of Thorns and Roses</title>
+    <author>Sarah J Maas</author>
+    <genre>Romance</genre>
+    <price>9.99</price>
+  </book>
+
+  <book>
+    <id>8</id>
+    <title>The Midnight Library</title>
+    <author>Matt Haig</author>
+    <genre>Fiction</genre>
+    <price>9.99</price>
+  </book>
+
+  <book>
+    <id>9</id>
+    <title>Normal People</title>
+    <author>Sally Rooney</author>
+    <genre>Fiction</genre>
+    <price>9.99</price>
+  </book>
+
+  <book>
+    <id>10</id>
+    <title>It Starts With Us</title>
+    <author>Colleen Hoover</author>
+    <genre>Romance</genre>
+    <price>8.99</price>
+  </book>
+
+  <book>
+    <id>11</id>
+    <title>Atomic Habits</title>
+    <author>James Clear</author>
+    <genre>Personal Development</genre>
+    <price>10.99</price>
+  </book>
+</books>
